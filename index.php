@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>정수민</strong> <span>백엔드 포트폴리오</span></a>
+						<a href="index.php" class="logo"><strong>정수민</strong> <span>백엔드 포트폴리오</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -28,8 +28,8 @@
 				<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">홈</a></li>
-							<li><a href="port.html">이력서</a></li>
+							<li><a href="index.php">홈</a></li>
+							<li><a href="port.php">이력서</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">둘러보기</a></li>
@@ -62,7 +62,7 @@
 										<img src="images/pic01.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="port.html" class="link">이력서</a></h3>
+										<h3><a href="port.php" class="link">이력서</a></h3>
 										<p>개발자 지원 정수민 이력서 입니다</p>
 									</header>
 								</article>
@@ -71,7 +71,7 @@
 										<img src="images/pic02.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="index.html" class="link">임시1</a></h3>
+										<h3><a href="index.php" class="link">임시1</a></h3>
 										<p>임시1</p>
 									</header>
 								</article>
@@ -80,7 +80,7 @@
 										<img src="images/pic03.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="index.html" class="link">임시2</a></h3>
+										<h3><a href="index.php" class="link">임시2</a></h3>
 										<p>임시1</p>
 									</header>
 								</article>
@@ -133,7 +133,7 @@
 											맡은 역할 : 설문 관련하여 전체적인 디자인 및 기능 구현
 										</p>
 									<ul class="actions">
-										<li><a href="landing.html" class="button next">확인하기</a></li>
+										<li><a href="index.php" class="button next">확인하기</a></li>
 									</ul>
 								</div>
 							</section>
